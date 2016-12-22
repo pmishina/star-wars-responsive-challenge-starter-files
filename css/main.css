@@ -1,0 +1,29 @@
+nav {
+  background-color: orange;
+  position: fixed;
+  margin: 0;
+  width: 100%;
+}
+
+main {
+    padding-top: 125px;
+    margin-bottom: 20px;
+}
+
+.col-4 {
+    border: 1px solid gray;
+}
+
+img {
+    width: 200px;
+    text-align: left;
+    /*padding-top: 30px;*/
+}
+
+h3 {
+
+}
+
+p {
+
+}
